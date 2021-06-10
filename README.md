@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Solutions Architect at CTO.ai | Certified Kubernetes Administrator | AWS Certified Solutions Architect | Women Who Code Vancouver Legacy Director
+Solutions Architect at CTO.ai • Certified Kubernetes Administrator • AWS Certified Solutions Architect • Women Who Code Vancouver Legacy Director
 
 :link: <a href="https://www.ruxandrafediuc.com" target="_blank">www.ruxandrafediuc.com</a>
 
