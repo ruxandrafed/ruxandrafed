@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior Software Engineer at [#paid](https://www.github.com/hashtagpaid) • Certified Kubernetes Administrator • AWS Certified Solutions Architect • Women Who Code Vancouver Legacy Director
+Software Architect at [#paid](https://www.github.com/hashtagpaid) • Certified Kubernetes Administrator • AWS Certified Solutions Architect • Women Who Code Vancouver Legacy Director
 
 :link: <a href="https://www.ruxandrafediuc.com" target="_blank">www.ruxandrafediuc.com</a>
 
