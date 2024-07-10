@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Architect at [#paid](https://www.github.com/hashtagpaid) • Certified Kubernetes Administrator • AWS Certified Solutions Architect • Women Who Code Vancouver Legacy Director
+Principal Architect - Cloud & Infrastructure at [Viral Nation](https://www.github.com/viralnation) • Certified Kubernetes Administrator • AWS Certified Solutions Architect • Women Who Code Vancouver Legacy Director
 
 :link: <a href="https://www.ruxandrafediuc.com" target="_blank">www.ruxandrafediuc.com</a>
 
